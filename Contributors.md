@@ -3722,6 +3722,7 @@ Orandi Harris
 - [Jon Blackburn](https://github.com/elcarn23)
 - [Reuns](https://github.com/hacksignn)
 - [Dmitriy Babinkin](https://github.com/babinkin)
+- [Denis Gubich](https://github.com/z00k0)
 - [Non Intanon](https://github.com/nonintanon)
 - [Martin Loffler](https://github.com/FatalErrorCode)
 - [Digenaldo Neto](https://github.com/digenaldo)
